@@ -5,3 +5,10 @@ Name : U.Sai Nithyusha
 */
 //
 source code
+
+#include<stdio.h>
+int main()
+{
+  printf("Hello world")
+  return 0;
+}
